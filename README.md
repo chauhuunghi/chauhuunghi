@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huu Nghi</h1>
 
 <p align="center">
-  Currently a student at Ho Chi Minh City University of Technology and Engineering (HCM-UTE)
+  Currently a student at HCM-UTE | Ho Chi Minh City, Vietnam
   <br>
   Ho Chi Minh City, Vietnam
 </p>
