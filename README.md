@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi, I'm Huu Nghi 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=chauhuunghi&style=flat-square)
+
+Student at HCM-UTE | Ho Chi Minh City, Vietnam
 <!--
 **chauhuunghi/chauhuunghi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
