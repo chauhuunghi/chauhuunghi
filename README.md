@@ -3,7 +3,6 @@
 <p align="center">
   Currently a student at HCM-UTE | Ho Chi Minh City, Vietnam
   <br>
-  Ho Chi Minh City, Vietnam
 </p>
 
 <p align="center">
